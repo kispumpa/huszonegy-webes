@@ -1,4 +1,4 @@
-package controller.huszonegywebes;
+package huszonegywebes.controller;
 
 import java.io.*;
 
