@@ -1,0 +1,9 @@
+király: korona
+alsó: közel szélen
+felső: távol szélen
+ász: 4 sarokban
+
+tok: 128*139
+zold: 128*155
+piros: 128*125
+makk: 128*234

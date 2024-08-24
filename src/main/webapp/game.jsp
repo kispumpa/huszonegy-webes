@@ -33,10 +33,6 @@ Collections.addAll(lapok, laps);
 <canvas id="kartya" width="192" height="300" style="border: 1px solid #000000; border-radius: 15px 15px 15px 15px"></canvas>
 
 <script>
-    // var c = document.getElementById("kartya");
-    // var ctx = c.getContext("2d");
-    // ctx.font = "30px Arial";
-    // ctx.fillText("lofaSZ", 10, 50);
     var x = document.getElementById("kartya");
     var xtx = x.getContext("2d");
     var img = document.getElementById("tok");
